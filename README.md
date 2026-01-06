@@ -4,7 +4,7 @@ I'm Elishia Joy Jennings
 I'm a Computer Science major at the College of Charleston interested in data analytics, 
 data engineering, software engineering, and cybersecurity. 
 
-Skills
+## Skills
 - 🔹 Java, Python, C/C++, SQL, AWS
 - 🔹 MIPS/MARS, LaTeX, UNIX, Docker
 - 🔹 Microsoft and Google Applications
