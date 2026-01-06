@@ -4,6 +4,22 @@ I'm Elishia Joy Jennings
 I'm a Computer Science major at the College of Charleston interested in data analytics, 
 data engineering, software engineering, and cybersecurity. 
 
+## Education 🎓
+- College of Charleston | Charleston, SC				            Expected Graduation: May 2026
+
+- B.S.  Computer Science | Minor in Dance	
+
+- GPA: 3.67 | Dean’s List
+
+- Relevant Courses: Computer Programming, Discrete Structures, Data Structures & Algorithms, Network Security, Digital Logic & Computer Organization, Software Engineering, and Advanced Algorithms
+
+
+
+
+
+
+
+
 ## Skills
 - 🔹 Java, Python, C/C++, SQL, AWS
 - 🔹 MIPS/MARS, LaTeX, UNIX, Docker
