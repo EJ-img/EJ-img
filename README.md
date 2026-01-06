@@ -5,7 +5,7 @@ I'm a Computer Science major at the College of Charleston interested in data ana
 data engineering, software engineering, and cybersecurity. 
 
 ## Education 🎓
-- College of Charleston | Charleston, SC				            Expected Graduation: May 2026
+- College of Charleston | Charleston, SC	| Expected Graduation: May 2026
 
 - B.S.  Computer Science | Minor in Dance	
 
@@ -13,12 +13,24 @@ data engineering, software engineering, and cybersecurity.
 
 - Relevant Courses: Computer Programming, Discrete Structures, Data Structures & Algorithms, Network Security, Digital Logic & Computer Organization, Software Engineering, and Advanced Algorithms
 
+## Relevant Experience 👩🏾‍💻
 
+Data Engineering Intern | Oct 2025 - Present
 
+Maymont Homes, Inc  | Charleston, SC
 
+- Assisted in developing data pipelines using Python to extract, transform, and prepare data for business consumption.
+- Supported the creation and execution of SQL queries to analyze leasing, maintenance, and resident data.
+- Cleaned, organized, and prepared datasets for data science initiatives, reporting, and analytical use.
+- Collaborated with analysts and engineers to maintain data accuracy, consistency, and reliability across systems.
+  
+## Information Technology / Audio Visual Technician | March 2024 - Oct 2025
+College of Charleston | Charleston, SC
 
-
-
+- Troubleshoot and maintain Epson, Crestron, Dell, and Wolfvision equipment in classroom and conference spaces. 
+- Provide timely technical support by diagnosing and resolving user-reported issues with classroom equipment.
+- Installed new equipment in classroom labs.
+- Reimage Classroom PC’s and adjust BIOS settings for optimal performance 
 
 ## Skills
 - 🔹 Java, Python, C/C++, SQL, AWS
