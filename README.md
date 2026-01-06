@@ -33,7 +33,7 @@ College of Charleston | Charleston, SC
 - Installed new equipment in classroom labs.
 - Reimage Classroom PC’s and adjust BIOS settings for optimal performance 
 
-# Skills
+## Skills
 - 🔹 Java, Python, C/C++, SQL, AWS
 - 🔹 MIPS/MARS, LaTeX, UNIX, Docker
 - 🔹 Microsoft and Google Applications
