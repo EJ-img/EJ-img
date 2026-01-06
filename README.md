@@ -9,8 +9,8 @@ Skills
 - 🔹 MIPS/MARS, LaTeX, UNIX, Docker
 - 🔹 Microsoft and Google Applications
 
-- 📫 Contact: elishiajennings@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/elishiajennings-a4b386366
+ 📫 Contact: elishiajennings@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/elishiajennings-a4b386366
 
 FUN FACT: I minor in Dance 💃🏾
 
