@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Elishia Joy Jennings
 
-I'm a Computer Science major at the College of Charleston interested in data analytics, 
+I'm a senior computer science major at the College of Charleston expected to graduate in May 2026. I'm interested in data analytics, 
 data engineering, software engineering, and cybersecurity. 
 
 # Education 🎓
