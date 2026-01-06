@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 I'm Elishia Joy Jennings
 
 I'm a Computer Science major at the College of Charleston interested in data analytics, 
 data engineering, software engineering, and cybersecurity. 
 
-## Education 🎓
+# Education 🎓
 - College of Charleston | Charleston, SC	| Expected Graduation: May 2026
 
 - B.S.  Computer Science | Minor in Dance	
@@ -13,9 +13,9 @@ data engineering, software engineering, and cybersecurity.
 
 - Relevant Courses: Computer Programming, Discrete Structures, Data Structures & Algorithms, Network Security, Digital Logic & Computer Organization, Software Engineering, and Advanced Algorithms
 
-## Relevant Experience 👩🏾‍💻
+# Relevant Experience 👩🏾‍💻
 
-# Data Engineering Intern | Oct 2025 - Present
+## Data Engineering Intern | Oct 2025 - Present
 
 Maymont Homes, Inc  | Charleston, SC
 
@@ -24,7 +24,7 @@ Maymont Homes, Inc  | Charleston, SC
 - Cleaned, organized, and prepared datasets for data science initiatives, reporting, and analytical use.
 - Collaborated with analysts and engineers to maintain data accuracy, consistency, and reliability across systems.
   
-# Information Technology / Audio Visual Technician | March 2024 - Oct 2025
+## Information Technology / Audio Visual Technician | March 2024 - Oct 2025
 College of Charleston | Charleston, SC
 
 - Troubleshoot and maintain Epson, Crestron, Dell, and Wolfvision equipment in classroom and conference spaces. 
@@ -32,7 +32,7 @@ College of Charleston | Charleston, SC
 - Installed new equipment in classroom labs.
 - Reimage Classroom PC’s and adjust BIOS settings for optimal performance 
 
-## Skills
+# Skills
 - 🔹 Java, Python, C/C++, SQL, AWS
 - 🔹 MIPS/MARS, LaTeX, UNIX, Docker
 - 🔹 Microsoft and Google Applications
