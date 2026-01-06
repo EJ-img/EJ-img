@@ -15,7 +15,7 @@ data engineering, software engineering, and cybersecurity.
 
 ## Relevant Experience 👩🏾‍💻
 
-Data Engineering Intern | Oct 2025 - Present
+# Data Engineering Intern | Oct 2025 - Present
 
 Maymont Homes, Inc  | Charleston, SC
 
@@ -24,7 +24,7 @@ Maymont Homes, Inc  | Charleston, SC
 - Cleaned, organized, and prepared datasets for data science initiatives, reporting, and analytical use.
 - Collaborated with analysts and engineers to maintain data accuracy, consistency, and reliability across systems.
   
-## Information Technology / Audio Visual Technician | March 2024 - Oct 2025
+# Information Technology / Audio Visual Technician | March 2024 - Oct 2025
 College of Charleston | Charleston, SC
 
 - Troubleshoot and maintain Epson, Crestron, Dell, and Wolfvision equipment in classroom and conference spaces. 
