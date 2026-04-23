@@ -40,7 +40,7 @@ College of Charleston | Charleston, SC
 
  📫 Contact: elishiajennings@gmail.com
  
-🔗 LinkedIn: www.linkedin.com/in/elishiajennings-a4b386366
+🔗 LinkedIn: www.linkedin.com/in/elishiajennings
 
 
 
