@@ -15,7 +15,7 @@ data engineering, and software engineering.
 
 ## Relevant Experience 👩🏾‍💻
 
-🩵 Data Engineering Intern | Oct 2025 - Present
+🩵 Data Engineering Intern | Oct 2025 - May 2026
 
 Maymont Homes, Inc  | Charleston, SC
 
